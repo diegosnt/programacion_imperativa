@@ -19,3 +19,5 @@ let numero1 = 12;
 let numero2 = "12";
 
 console.log(estaCasado);
+
+//'JetBrainsMonoNerd Font Regular','Cascadia Mono Regular','Hack Nerd Font'
