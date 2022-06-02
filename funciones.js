@@ -1,3 +1,6 @@
+
+// EQUIPO 5 #CAMADA 7 - Fabricio Daniel Turrina / Tomás Agustin Costa / Santiago Abraham / Esteban Cequeir / Daniela Riquelme / Diego Santacruz
+
 /*
 Agregá caminos
 Revisá el siguiente código y asegurate de entenderlo para poder avanzar con el
@@ -164,7 +167,7 @@ const calculaTotalSandwiche = (base, pan, queso, tomate, lechuga, cebolla, mayon
 
 }
 
-console.log(calculaSandwiche('veggie', 'blanco', true, false, false, false, false, true));
+console.log(calculaTotalSandwiche('veggie', 'blanco', true, false, false, false, false, true));
 
 /* -------------------------------------------------------------------------------------- */
 

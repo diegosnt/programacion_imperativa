@@ -1,4 +1,4 @@
-// EQUIPO 4 - Fabricio Daniel Turrina / Macarena Merlo / Salem Ali / Tomás Agustin Costa / Daniela Riquelme / Diego Santacruz
+// EQUIPO 4 #CAMADA 7 - Fabricio Daniel Turrina / Macarena Merlo / Salem Ali / Tomás Agustin Costa / Daniela Riquelme / Diego Santacruz
 
 //1. Crear un archivo calculadora.js que contendrá las distintas operaciones a realizar de nuestra calculadora.
 
