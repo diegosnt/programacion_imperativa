@@ -1,1 +1,1 @@
-console.log("hola 4")
+console.log(10 >= 15 && 10 !== 11);
