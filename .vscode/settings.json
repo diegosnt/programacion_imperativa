@@ -3,5 +3,6 @@
         "activityBar.background": "#00000F",
         "titleBar.activeBackground": "#00000F",
         "titleBar.activeForeground": "#FFFFFF"
-    }
+    },
+    "editor.fontFamily": "'HackNerdFonts','Droid Sans Mono', 'monospace', monospace"
 }
