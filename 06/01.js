@@ -23,3 +23,8 @@ function encontrarGanador(a, b) {
 }
 
 console.log("El ganador es: " + encontrarGanador(alicia, bob) + " participante");
+
+
+// let Concurso = {
+//    eta: 
+// }
