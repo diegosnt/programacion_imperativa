@@ -4,5 +4,5 @@
         "titleBar.activeBackground": "#00000F",
         "titleBar.activeForeground": "#FFFFFF"
     },
-    "editor.fontFamily": "'HackNerdFonts','Droid Sans Mono', 'monospace', monospace"
+    "editor.fontFamily": "JetBrains Mono"
 }
