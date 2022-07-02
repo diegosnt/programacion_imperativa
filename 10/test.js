@@ -6,6 +6,9 @@ console.log(miArreglo.length);
 
 
 if (miArreglo.length != 5) {
-    console.log('OK')
+    console.log('OK');
 }
+
+console.log('TEST!!');
+
 

@@ -63,6 +63,27 @@ const obtenerMenor30 = arreglo => {
     }
 }
 
+
+  /*,
+  {
+    nombre: "Juan",
+    apellido: "Vacunao",
+    temperatura: 38,
+    estaVacunado: true,
+  },
+  {
+    nombre: "Ricardo",
+    apellido: "Novacunao",
+    temperatura: 38,
+    estaVacunado: false,
+  },
+  {
+    nombre: "Ricardo",
+    apellido: "Nopasanada",
+    temperatura: 40,
+    estaVacunado: true,
+  },*/
+
 obtenerMenor30(arrayCuentas)
 
 //console.log(arrayMenores30)

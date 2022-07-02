@@ -18,7 +18,7 @@ function nameShuffler(str){
 //const nameShuffler = str => (str.split(' ').reverse()).join(' ')
 
 const nameShuffler = str => (str.split(' ').reverse()).join(' ');
-const nameShuffler = str => str.split(' ').reverse().join(' ');
+//const nameShuffler = str => str.split(' ').reverse().join(' ');
 
 
 console.log(nameShuffler(str1));
@@ -28,5 +28,5 @@ console.log(nameShuffler(str1));
 function nameShuffler(str){
     //Shuffle It
   }
-
+      sumate2 += m[i][ m.length - (1 + i)];
 */
