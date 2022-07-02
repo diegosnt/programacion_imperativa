@@ -1,8 +1,0 @@
-{
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#00000F",
-        "titleBar.activeBackground": "#00000F",
-        "titleBar.activeForeground": "#FFFFFF"
-    },
-    "editor.fontFamily": "JetBrains Mono"
-}
