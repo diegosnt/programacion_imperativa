@@ -66,3 +66,6 @@ Pista: Investigá si el objeto Math tiene entre sus propiedades el número Pi.
 const circunferencia = radio => Math.PI * Math.pow(radio,2);
 console.log(circunferencia(1));
 
+
+
+
